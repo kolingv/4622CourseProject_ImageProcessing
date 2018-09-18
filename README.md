@@ -3,7 +3,7 @@
 
 - There are three mini projects (or tasks) all coded in c/c++. If u r student from UNSW, u might get project descriptions. Requirement of the projects may change from year to year. 
 
-- I'll simply just copy tasks for each project here and leave theory fot later, or if you urgently need the whole theories, just feel free to contact me. vincentfong2016@gmail.com
+- I'll simply just copy tasks for each project here and leave theory fot later, or if you urgently need the whole theories, just feel free to contact me. 
 
 #Project1 - reduction and expansion:
 1. Reducing the size of an image by a factor of 5/3 in each direction - i.e., zoom-out.
